@@ -1,0 +1,94 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.FS-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.FS-text-divi {
+    width: 50%;
+    padding: 0%;
+    margin-left: 5%;
+}
+
+.FS-img-divi img {
+    width: 75%;
+    margin-left: 10%;
+}
+
+.added-back-ground {
+    background-image: url(images/shapes/resize-1661695474226752754Frame57.jpg);
+    background-repeat: no-repeat;
+
+}
+
+
+#only {
+    font-size: 40px;
+}
+
+.orenge-color {
+    color: orangered;
+}
+
+.gray-text {
+    color: gray;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(252, 178, 30), red);
+    border-radius: 54px;
+    padding: 10px 25px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.mid-container {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 60px;
+}
+
+.last-container {
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.IS-container {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 25px gray;
+    padding: 5px;
+}
+
+.Vlast-cont {
+    display: flex;
+    border-radius: 25px;
+    box-shadow: 5px 5px 25px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.vl {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.vl h1 {
+    font-size: 30px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
